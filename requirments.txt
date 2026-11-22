@@ -1,0 +1,8 @@
+Name,Age,Department,Salary,City
+Ravi,22,IT,35000,Hyderabad
+Priya,25,HR,42000,Chennai
+Ravi,22,IT,35000,Hyderabad
+Arjun,,Finance,50000,Bangalore
+Sneha,24,IT,,Hyderabad
+Kiran,29,HR,46000,
+Meena,27,Finance,52000,Chennai
